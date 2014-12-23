@@ -31,7 +31,7 @@ margin-top:0.8em;
 }
 /* draw border around running cells */
 div.cell.border-box-sizing.code_cell.running {
-    border: 3px solid #887DA3;
+    border: 3px solid #A32F3C;
 }
 /* draw border around last active cells */
 div.cell.selected {
@@ -39,7 +39,7 @@ div.cell.selected {
 }
 /* Put a solid color box around each cell and its output, visually linking them together */
 div.cell.code_cell {
-    background-color: rgba(235,235,235,1); /*171,165,131,0.3,  159,115,0, 0.3*/
+    background-color: rgba(234,229,179,1.0); /*171,165,131,0.3,  159,115,0, 0.3*/
     border-radius: 10px; /* rounded borders */
     padding: 1em;
     margin-top: 1em;
@@ -50,7 +50,7 @@ div.text_cell_render{
     font-family: 'Arvo' sans-serif;
     line-height: 130%;
     font-size: 115%;
-    width:800px; /* divider line */
+    width:800px;  /* Divider line */
     margin-left:auto;
     margin-right:auto;
 }

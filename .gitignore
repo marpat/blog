@@ -28,3 +28,7 @@ Icon
 
 # Files custom
 .project
+
+
+#Directories
+.ipynb_checkpoints/
