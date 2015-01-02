@@ -32,3 +32,4 @@ Icon
 
 #Directories
 .ipynb_checkpoints/
+.git/
