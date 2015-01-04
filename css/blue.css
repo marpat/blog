@@ -11,9 +11,15 @@
     src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
 }
 
+em {	text-decoration: underline;
+	color: rgba(136,0,34,0.8);
+}
+
+i {	text-decoration: none;
+}
 
 #notebook_panel { /* main background */
-    background: #888;
+    background: #C3C3C3;
     color: #f6f6f6;
 }
 
