@@ -1,3 +1,5 @@
+@import url("custom.css");
+
 <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
@@ -15,11 +17,8 @@ em {	text-decoration: underline;
 	color: rgba(136,0,34,0.8);
 }
 
-i {	text-decoration: none;
-}
-
 #notebook_panel { /* main background */
-    background: #C3C3C3;
+    background: inherit;
     color: #f6f6f6;
 }
 

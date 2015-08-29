@@ -28,7 +28,9 @@ Icon
 
 # Files custom
 .project
-
+Dipoles_quad_all.ipynb
+Dipoles_seq.ipynb
+Dipoles_seq_new.ipynb
 
 #Directories
 .ipynb_checkpoints/
