@@ -14,4 +14,4 @@ Move all files into your IPython Notebook directory. On Windows system, it is at
 > C:\Users\USER_ACCOUNT\Documents\IPython Notebooks
 
 The web version of a notebook is at:
-> http://nbviewer.ipython.org/github/marpat/blog/blob/master/*.ipynb
+> https://github.com/marpat/blog/blob/master/Dipoles_quad_all_Jupyter.ipynb
