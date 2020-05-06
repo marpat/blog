@@ -1,7 +1,7 @@
 NBO blog IPython Notebooks
 ================
 
-This area contains iPython Notebooks written on the topics of processing output txt files. 
+This area contains Jupyter Notebooks written on the topics of processing output txt files. 
 Those output files originate from a wide variety of computational chemistry runs, notably from the Natural Bond Orbital (NBO) 
 analysis of molecular properties.
 
