@@ -1,4 +1,4 @@
-NBO blog IPython Notebooks
+NBO blog Jupyter Notebooks
 ================
 
 This area contains Jupyter Notebooks written on the topics of processing output txt files. 
